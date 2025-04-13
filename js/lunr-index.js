@@ -1,0 +1,2 @@
+
+var lunrIndex = {"version":"2.3.9","fields":["title","body"],"fieldVectors":[["title/134119461",[0,1.823]],["body/134119461",[0,0.392]]],"invertedIndex":[["",{"_index":0,"title":{"134119461":{}},"body":{"134119461":{}}}]],"pipeline":["stemmer-noop"]};
